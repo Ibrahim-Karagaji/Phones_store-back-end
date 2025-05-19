@@ -63,6 +63,7 @@ export const phones: Phone[] = [
       "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-12-3.jpg",
     ],
   },
+
   {
     id: "d8bc4c46-99c6-42ef-a373-7a653e89bd90",
     name: "OnePlus Open",
