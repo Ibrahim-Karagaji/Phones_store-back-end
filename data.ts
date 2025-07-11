@@ -24,9 +24,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "12GB / 16GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-1.png",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-3.png",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-4.jpeg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-3.png",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-4.jpeg",
     ],
   },
   {
@@ -41,9 +41,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-13R-1.png",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-13R-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-4.jpeg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-13R-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-13R-2.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-13-4.jpeg",
     ],
   },
   {
@@ -58,9 +58,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "12GB / 16GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/onePlus-12-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/onePlus-12-1.png",
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-12-3.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-12-3.jpg",
     ],
   },
 
@@ -93,8 +93,8 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N30-5G-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N30-5G-3.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N30-5G-2.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N30-5G-3.jpg",
       "https://www.google.com/imgres?q=OnePlus%20Nord%20N30%205G&imgurl=https%3A%2F%2Fwiregcc.com%2Fstorage%2Fproducts%2F2024-05-03%2F050320241731326634f5440f476.png&imgrefurl=https%3A%2F%2Fwww.wiregcc.com%2Fproducts%2Fphone-oneplus-nord-n30-se-128-gb-5g.65cb3ff125588&docid=btz_sDOwYtLBDM&tbnid=PhMcT_SxCZnedM&vet=12ahUKEwiJrtXvyYONAxUv3AIHHSKvKWoQM3oECH0QAA..i&w=500&h=500&hcb=2&ved=2ahUKEwiJrtXvyYONAxUv3AIHHSKvKWoQM3oECH0QAA",
     ],
   },
@@ -127,9 +127,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/onePlus-11R-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/onePlus-11R-1.png",
       "data:image/jpeg;base64,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",
-      "public/prodcuts-imgs/onePlus-products-imgs/onePlus-11R-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/onePlus-11R-1.png",
     ],
   },
   {
@@ -144,9 +144,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/onePlus-nord-3-1.png",
-      "public/prodcuts-imgs/onePlus-products-imgs/onePlus-nord-3-3.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/onePlus-nord-3-4.png",
+      "/prodcuts-imgs/onePlus-products-imgs/onePlus-nord-3-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/onePlus-nord-3-3.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/onePlus-nord-3-4.png",
     ],
   },
   {
@@ -163,7 +163,7 @@ export const phones: Phone[] = [
     images: [
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce-3-lite-1.jpg",
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce-3-lite-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-CE-3-Lite-1.png",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-CE-3-Lite-1.png",
     ],
   },
   {
@@ -197,7 +197,7 @@ export const phones: Phone[] = [
     images: [
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg",
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-9-Pro-1.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-9-Pro-1.jpg",
     ],
   },
   {
@@ -214,7 +214,7 @@ export const phones: Phone[] = [
     images: [
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-1.jpg",
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-8T-1.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-8T-1.jpg",
     ],
   },
   {
@@ -229,9 +229,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-2T-1.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-2T-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-2T-3.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-2T-1.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-2T-2.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-2T-3.jpg",
     ],
   },
   {
@@ -264,8 +264,8 @@ export const phones: Phone[] = [
     ram: "4GB",
     images: [
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-n100-1.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N100-3.jpeg",
-      "public/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N100-4.jpeg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N100-3.jpeg",
+      "/prodcuts-imgs/onePlus-products-imgs/OnePlus-Nord-N100-4.jpeg",
     ],
   },
   {
@@ -282,7 +282,7 @@ export const phones: Phone[] = [
     images: [
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-1.jpg",
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/oneplus-8-3.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/oneplus-8-3.jpg",
     ],
   },
   {
@@ -297,8 +297,8 @@ export const phones: Phone[] = [
     storage: "16GB",
     ram: "3GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/oneplus-x-1.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/oneplus-x-2.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/oneplus-x-1.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/oneplus-x-2.jpg",
       "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-x-3.jpg",
     ],
   },
@@ -348,9 +348,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/onePlus-products-imgs/oneplus-6t-1.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/oneplus-6t-2.jpg",
-      "public/prodcuts-imgs/onePlus-products-imgs/oneplus-6t-3.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/oneplus-6t-1.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/oneplus-6t-2.jpg",
+      "/prodcuts-imgs/onePlus-products-imgs/oneplus-6t-3.jpg",
     ],
   },
   {
@@ -365,9 +365,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB / 1TB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galax- S23-Ultra-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-Ultra-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-Ultra-3.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galax- S23-Ultra-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-Ultra-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-Ultra-3.webp",
     ],
   },
   {
@@ -382,9 +382,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23+-1.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23+-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23+-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23+-1.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23+-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23+-3.jpg",
     ],
   },
   {
@@ -399,9 +399,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-1.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-1.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S23-3.jpg",
     ],
   },
   {
@@ -416,9 +416,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB / 1TB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Fold-5-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Fold-5-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Fold-5-3.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Fold-5-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Fold-5-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Fold-5-3.png",
     ],
   },
   {
@@ -433,9 +433,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Flip-5-1.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Flip-5-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Flip-5-3.avif",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Flip-5-1.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Flip-5-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Z-Flip-5-3.avif",
     ],
   },
   {
@@ -450,9 +450,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A54-5G-1.avif",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A54-5G-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A54-5G-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A54-5G-1.avif",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A54-5G-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A54-5G-3.jpg",
     ],
   },
   {
@@ -467,9 +467,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A34-5G-1.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A34-5G-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A34-5G-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A34-5G-1.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A34-5G-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A34-5G-3.jpg",
     ],
   },
   {
@@ -484,9 +484,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-Ultra-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-Ultra-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-Ultra-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-Ultra-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-Ultra-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-Ultra-3.jpg",
     ],
   },
   {
@@ -501,9 +501,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22+-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22+-3.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22+-4.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22+-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22+-3.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22+-4.webp",
     ],
   },
   {
@@ -518,9 +518,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-3.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-S22-3.webp",
     ],
   },
   {
@@ -535,9 +535,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Note-20-Ultra-2.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Note-20-Ultra-3.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Note-20-Ultra-4.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Note-20-Ultra-2.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Note-20-Ultra-3.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-Note-20-Ultra-4.jpg",
     ],
   },
   {
@@ -552,9 +552,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A73-5G-1.avif",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A73-5G-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A73-5G-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A73-5G-1.avif",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A73-5G-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A73-5G-3.jpg",
     ],
   },
   {
@@ -569,9 +569,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A72-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A72-2.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A72-3.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A72-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A72-2.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A72-3.png",
     ],
   },
   {
@@ -586,9 +586,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A52s-5G-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A52s-5G-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A52s-5G-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A52s-5G-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A52s-5G-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A52s-5G-3.jpg",
     ],
   },
   {
@@ -603,9 +603,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M54-5G-1.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M54-5G-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M54-5G-3.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M54-5G-1.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M54-5G-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M54-5G-3.jpg",
     ],
   },
   {
@@ -620,9 +620,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M33-5G-1.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M33-5G-2.png",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M33-5G-3.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M33-5G-1.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M33-5G-2.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-M33-5G-3.webp",
     ],
   },
   {
@@ -637,9 +637,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A32-5G-1.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A32-5G-2.jpg",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A32-5G-3.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A32-5G-1.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A32-5G-2.jpg",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A32-5G-3.webp",
     ],
   },
   {
@@ -654,9 +654,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A12-1.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A12-2.webp",
-      "public/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A12-3.png",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A12-1.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A12-2.webp",
+      "/prodcuts-imgs/Samsung-products-imgs/Samsung-Galaxy-A12-3.png",
     ],
   },
   {
@@ -671,9 +671,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB / 1TB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-Max-2.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-Max-3.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-Max-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-Max-2.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-Max-3.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-Max-4.jpg",
     ],
   },
   {
@@ -688,9 +688,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB / 1TB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-2.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-3.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-2.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Pro-3.png",
     ],
   },
   {
@@ -705,9 +705,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-3.jpeg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-3.jpeg",
     ],
   },
   {
@@ -722,9 +722,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-4.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-Plus-4.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-15-3.jpg",
     ],
   },
   {
@@ -739,9 +739,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB / 1TB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-Max-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-Max-2.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-Max-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-Max-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-Max-2.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-Max-4.jpg",
     ],
   },
   {
@@ -756,9 +756,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB / 1TB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-3.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Pro-4.jpg",
     ],
   },
   {
@@ -773,9 +773,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Plus-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-4.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Plus-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-4.jpg",
     ],
   },
   {
@@ -790,9 +790,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-4.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Plus-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-14-Plus-4.jpg",
     ],
   },
   {
@@ -807,9 +807,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB / 1TB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-Max-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-Max-2.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-Max-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-Max-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-Max-2.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-Max-3.jpg",
     ],
   },
   {
@@ -824,9 +824,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB / 1TB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-3.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Pro-4.jpg",
     ],
   },
   {
@@ -841,9 +841,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-3.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-4.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-4.png",
     ],
   },
   {
@@ -858,9 +858,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Mini-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Mini-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Mini-4.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Mini-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Mini-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-13-Mini-4.png",
     ],
   },
   {
@@ -875,9 +875,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB / 256GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-SE-3-(2022)-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-SE-3-(2022)-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-SE-3-(2022)-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-SE-3-(2022)-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-SE-3-(2022)-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-SE-3-(2022)-4.jpg",
     ],
   },
   {
@@ -892,9 +892,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-Max-1.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-Max-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-Max-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-Max-1.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-Max-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-Max-3.jpg",
     ],
   },
   {
@@ -909,9 +909,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB / 512GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-2.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Pro-2.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-4.jpg",
     ],
   },
   {
@@ -926,9 +926,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB / 256GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-1.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-1.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-3.jpg",
     ],
   },
   {
@@ -943,9 +943,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB / 256GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Mini-2.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Mini-4.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Mini-2.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-Mini-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-12-4.jpg",
     ],
   },
   {
@@ -960,9 +960,9 @@ export const phones: Phone[] = [
     storage: "64GB / 256GB / 512GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-3.jpg",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-3.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-4.jpg",
     ],
   },
   {
@@ -977,9 +977,9 @@ export const phones: Phone[] = [
     storage: "64GB / 256GB / 512GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-2.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-3.png",
-      "public/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-4.jpg",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-2.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-3.png",
+      "/prodcuts-imgs/apple-prodcuts-imgs/iPhone-11-Pro-Max-4.jpg",
     ],
   },
   {
@@ -994,9 +994,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-Pro-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-1.png",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-Pro-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-1.png",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-4.jpg",
     ],
   },
   {
@@ -1011,9 +1011,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-1.png",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-2.png",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-1.png",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-2.png",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-4.jpg",
     ],
   },
   {
@@ -1028,9 +1028,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-2.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-2.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-4.jpg",
     ],
   },
   {
@@ -1045,9 +1045,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-70-5G-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-3.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-70-5G-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-3.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-90-5G-4.jpg",
     ],
   },
   {
@@ -1062,9 +1062,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-X9a-5G-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-X9a-5G-3.png",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-X8-5G-1.png",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-X9a-5G-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-X9a-5G-3.png",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-X8-5G-1.png",
     ],
   },
   {
@@ -1079,9 +1079,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-imgs-4.jpg",
     ],
   },
   {
@@ -1096,9 +1096,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-1.jpg",
     ],
   },
   {
@@ -1113,9 +1113,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-50-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-70-5G-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-50-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-50-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-70-5G-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-50-4.jpg",
     ],
   },
   {
@@ -1130,9 +1130,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-7X-1.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-8-3.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-7X-1.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-8-3.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
     ],
   },
   {
@@ -1147,9 +1147,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-7X-1.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-7X-2.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-7X-1.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-7X-2.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
     ],
   },
   {
@@ -1164,9 +1164,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-Lite-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic5-Lite-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Magic4-Pro-4.jpg",
     ],
   },
   {
@@ -1181,9 +1181,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-10X-Lite-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-10X-Lite-2.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-10X-Lite-4.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-10X-Lite-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-10X-Lite-2.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-10X-Lite-4.jpeg",
     ],
   },
   {
@@ -1198,9 +1198,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-View-20-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-View-20-2.png",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-View-20-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-View-20-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-View-20-2.png",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-View-20-4.jpg",
     ],
   },
   {
@@ -1215,9 +1215,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-2.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-3.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-2.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-3.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-4.jpg",
     ],
   },
   {
@@ -1232,9 +1232,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-8-3.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-8-3.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-8-4.jpeg",
     ],
   },
   {
@@ -1249,9 +1249,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-20-Pro-2.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-20-Pro-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-20-Pro-2.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-20-Pro-2.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-20-Pro-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-20-Pro-2.jpg",
     ],
   },
   {
@@ -1266,9 +1266,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Play-4-Pro-1.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Play-4-Pro-4.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-Play-4-Pro-3.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Play-4-Pro-1.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Play-4-Pro-4.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-Play-4-Pro-3.jpeg",
     ],
   },
   {
@@ -1283,9 +1283,9 @@ export const phones: Phone[] = [
     storage: "32GB / 64GB",
     ram: "3GB / 4GB",
     images: [
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-7X-1.jpeg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-7X-2.jpg",
-      "public/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-2.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-7X-1.jpeg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-7X-2.jpg",
+      "/prodcuts-imgs/Honor-products-imgs/Honor-9X-Pro-2.jpeg",
     ],
   },
   {
@@ -1300,9 +1300,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-2-Pro-1.avif",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-2-Pro-2.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-2-Pro-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-2-Pro-1.avif",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-2-Pro-2.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-2-Pro-4.jpeg",
     ],
   },
   {
@@ -1317,9 +1317,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-2-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-2-3.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-2-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-2-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-2-3.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-2-4.jpeg",
     ],
   },
   {
@@ -1334,9 +1334,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-9-Pro+-1.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-9-Pro+-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-9-Pro+-4.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-9-Pro+-1.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-9-Pro+-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-9-Pro+-4.jpg",
     ],
   },
   {
@@ -1351,9 +1351,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-9-Pro-1.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-9-Pro-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-9-Pro-4.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-9-Pro-1.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-9-Pro-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-9-Pro-4.jpg",
     ],
   },
   {
@@ -1368,9 +1368,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-Master-Edition-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-Master-Edition-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-GT-Master-Edition-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-Master-Edition-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-Master-Edition-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-GT-Master-Edition-4.jpeg",
     ],
   },
   {
@@ -1385,9 +1385,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X7-Max-5G-1.webp",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X7-Max-5G-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X7-Max-5G-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X7-Max-5G-1.webp",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X7-Max-5G-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X7-Max-5G-4.jpeg",
     ],
   },
   {
@@ -1402,9 +1402,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme Narzo 50 Pro 5G-1.webp",
-      "public/prodcuts-imgs/realme-products-imgs/Realme Narzo 50 Pro 5G-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme Narzo 50 Pro 5G-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme Narzo 50 Pro 5G-1.webp",
+      "/prodcuts-imgs/realme-products-imgs/Realme Narzo 50 Pro 5G-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme Narzo 50 Pro 5G-4.jpeg",
     ],
   },
   {
@@ -1419,9 +1419,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-8-Pro-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-8-Pro-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-8-Pro-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-8-Pro-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-8-Pro-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-8-Pro-4.jpeg",
     ],
   },
   {
@@ -1436,9 +1436,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-8-5G-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-8-5G-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-8-5G-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-8-5G-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-8-5G-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-8-5G-4.jpeg",
     ],
   },
   {
@@ -1453,9 +1453,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X50-Pro-5G-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X50-Pro-5G-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X50-Pro-5G-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X50-Pro-5G-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X50-Pro-5G-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X50-Pro-5G-4.jpeg",
     ],
   },
   {
@@ -1470,9 +1470,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30-Pro-5G-1.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30-Pro-5G-1.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-4.jpeg",
     ],
   },
   {
@@ -1487,9 +1487,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C25Y-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C25Y-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C25Y-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C25Y-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C25Y-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C25Y-4.jpeg",
     ],
   },
   {
@@ -1504,9 +1504,9 @@ export const phones: Phone[] = [
     storage: "32GB / 64GB",
     ram: "3GB / 4GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-Narzo-30A-4.jpeg",
     ],
   },
   {
@@ -1521,9 +1521,9 @@ export const phones: Phone[] = [
     storage: "32GB / 64GB",
     ram: "3GB / 4GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C12-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C12-2.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C12-4.webp",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C12-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C12-2.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C12-4.webp",
     ],
   },
   {
@@ -1538,9 +1538,9 @@ export const phones: Phone[] = [
     storage: "32GB / 64GB",
     ram: "3GB / 4GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C15-1.webp",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C15-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C15-4.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C15-1.webp",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C15-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C15-4.jpeg",
     ],
   },
   {
@@ -1555,9 +1555,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X2-Pro-1.jpg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X2-Pro-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-X2-Pro-4.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X2-Pro-1.jpg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X2-Pro-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-X2-Pro-4.jpg",
     ],
   },
   {
@@ -1572,9 +1572,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-6-Pro-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-6-Pro-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-6-Pro-3.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-6-Pro-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-6-Pro-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-6-Pro-3.jpeg",
     ],
   },
   {
@@ -1589,9 +1589,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-6-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-6-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-6-3.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-6-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-6-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-6-3.jpeg",
     ],
   },
   {
@@ -1606,9 +1606,9 @@ export const phones: Phone[] = [
     storage: "32GB / 64GB",
     ram: "3GB / 4GB",
     images: [
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C3-1.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C3-2.jpeg",
-      "public/prodcuts-imgs/realme-products-imgs/Realme-C3-3.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C3-1.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C3-2.jpeg",
+      "/prodcuts-imgs/realme-products-imgs/Realme-C3-3.jpeg",
     ],
   },
   {
@@ -1623,9 +1623,9 @@ export const phones: Phone[] = [
     storage: "256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X5-Pro-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X5-Pro-2.jpg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X5-Pro-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X5-Pro-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X5-Pro-2.jpg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X5-Pro-4.jpeg",
     ],
   },
   {
@@ -1640,9 +1640,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno8-Pro-5G-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno8-Pro-5G-2.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno8-Pro-5G-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno8-Pro-5G-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno8-Pro-5G-2.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno8-Pro-5G-4.jpeg",
     ],
   },
   {
@@ -1657,9 +1657,9 @@ export const phones: Phone[] = [
     storage: "256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X3-Pro-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X3-Pro-3.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X3-Pro-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X3-Pro-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X3-Pro-3.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Find-X3-Pro-4.jpeg",
     ],
   },
   {
@@ -1674,9 +1674,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno7-Pro-5G-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno7-Pro-5G-2.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno7-Pro-5G-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno7-Pro-5G-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno7-Pro-5G-2.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno7-Pro-5G-4.jpeg",
     ],
   },
   {
@@ -1691,9 +1691,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-A95-5G-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-A95-5G-2.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-A95-5G-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-A95-5G-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-A95-5G-2.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-A95-5G-4.jpeg",
     ],
   },
   {
@@ -1708,9 +1708,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-F19-Pro+-5G-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-F19-Pro+-5G-2.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-F19-Pro+-5G-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-F19-Pro+-5G-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-F19-Pro+-5G-2.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-F19-Pro+-5G-4.jpeg",
     ],
   },
   {
@@ -1725,9 +1725,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-A74-5G-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-A74-5G-2.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-A74-5G-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-A74-5G-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-A74-5G-2.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-A74-5G-4.jpeg",
     ],
   },
   {
@@ -1742,9 +1742,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno6-5G-1.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno6-5G-2.jpeg",
-      "public/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno6-5G-4.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno6-5G-1.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno6-5G-2.jpeg",
+      "/prodcuts-imgs/Oppo-products-imgs/Oppo-Reno6-5G-4.jpeg",
     ],
   },
   {
@@ -1759,9 +1759,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X90-Pro-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X90-Pro-2.jpg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X90-Pro-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X90-Pro-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X90-Pro-2.jpg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X90-Pro-4.jpeg",
     ],
   },
   {
@@ -1776,9 +1776,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V23-Pro-5G-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V23-Pro-5G-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V23-Pro-5G-3.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V23-Pro-5G-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V23-Pro-5G-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V23-Pro-5G-3.jpeg",
     ],
   },
   {
@@ -1793,9 +1793,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V21-5G-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V21-5G-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V21-5G-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V21-5G-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V21-5G-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V21-5G-4.jpeg",
     ],
   },
   {
@@ -1810,9 +1810,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X60-Pro-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X60-Pro-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X60-Pro-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X60-Pro-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X60-Pro-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X60-Pro-4.jpeg",
     ],
   },
   {
@@ -1827,9 +1827,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V20-Pro-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V20-Pro-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-V20-Pro-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V20-Pro-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V20-Pro-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-V20-Pro-4.jpeg",
     ],
   },
   {
@@ -1844,9 +1844,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y73-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y73-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y73-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y73-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y73-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y73-4.jpeg",
     ],
   },
   {
@@ -1861,9 +1861,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y53s-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y53s-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y53s-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y53s-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y53s-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y53s-4.jpeg",
     ],
   },
   {
@@ -1878,9 +1878,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-T1-Pro-5G-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-T1-Pro-5G-3.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-T1-Pro-5G-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-T1-Pro-5G-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-T1-Pro-5G-3.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-T1-Pro-5G-4.jpeg",
     ],
   },
   {
@@ -1895,9 +1895,9 @@ export const phones: Phone[] = [
     storage: "256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X70-Pro-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X70-Pro-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-X70-Pro-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X70-Pro-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X70-Pro-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-X70-Pro-4.jpeg",
     ],
   },
   {
@@ -1912,9 +1912,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB",
     images: [
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y21-1.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y21-2.jpeg",
-      "public/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y21-4.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y21-1.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y21-2.jpeg",
+      "/prodcuts-imgs/vivo-porducts-imgs/Vivo-Y21-4.jpeg",
     ],
   },
   {
@@ -1929,9 +1929,9 @@ export const phones: Phone[] = [
     storage: "256GB / 512GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-13-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-13-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-13-Pro-4.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-13-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-13-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-13-Pro-4.jpeg",
     ],
   },
   {
@@ -1946,9 +1946,9 @@ export const phones: Phone[] = [
     storage: "256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-12-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-12-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-12-Pro-4.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-12-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-12-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-12-Pro-4.jpeg",
     ],
   },
   {
@@ -1963,9 +1963,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-12 Pro+-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-12 Pro+-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-12 Pro+-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-12 Pro+-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-12 Pro+-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-12 Pro+-3.jpeg",
     ],
   },
   {
@@ -1980,9 +1980,9 @@ export const phones: Phone[] = [
     storage: "256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11-Ultra-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11-Ultra-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11-Ultra-4.avif",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11-Ultra-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11-Ultra-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11-Ultra-4.avif",
     ],
   },
   {
@@ -1997,9 +1997,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-11-Pro-5G-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-11-Pro-5G-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-11-Pro-5G-4.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-11-Pro-5G-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-11-Pro-5G-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-11-Pro-5G-4.jpeg",
     ],
   },
   {
@@ -2014,9 +2014,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11X-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11X-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11X-Pro-4.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11X-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11X-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-11X-Pro-4.jpeg",
     ],
   },
   {
@@ -2031,9 +2031,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-K40-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-K40-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-K40-Pro-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-K40-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-K40-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-K40-Pro-3.jpeg",
     ],
   },
   {
@@ -2048,9 +2048,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-10-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-10-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-10-Pro-4.jpg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-10-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-10-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-10-Pro-4.jpg",
     ],
   },
   {
@@ -2065,9 +2065,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB / 12GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-11T-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-11T-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-11T-Pro-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-11T-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-11T-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-11T-Pro-3.jpeg",
     ],
   },
   {
@@ -2082,9 +2082,9 @@ export const phones: Phone[] = [
     storage: "128GB / 256GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10T-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10T-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10T-Pro-4.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10T-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10T-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10T-Pro-4.jpeg",
     ],
   },
   {
@@ -2099,9 +2099,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10-5G-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10-5G-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10-5G-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10-5G-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10-5G-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-10-5G-3.jpeg",
     ],
   },
   {
@@ -2116,9 +2116,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-9-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-9-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-9-Pro-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-9-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-9-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-9-Pro-3.jpeg",
     ],
   },
   {
@@ -2133,9 +2133,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "6GB / 8GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-8-Pro-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-8-Pro-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-8-Pro-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-8-Pro-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-8-Pro-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Redmi-Note-8-Pro-3.jpeg",
     ],
   },
   {
@@ -2150,9 +2150,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-A3-1.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-A3-2.jpeg",
-      "public/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-A3-3.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-A3-1.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-A3-2.jpeg",
+      "/prodcuts-imgs/xiamoi-products-imgs/Xiaomi-Mi-A3-3.jpeg",
     ],
   },
   {
@@ -2167,9 +2167,9 @@ export const phones: Phone[] = [
     storage: "256GB",
     ram: "12GB",
     images: [
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X2-Pro-1.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X2-Pro-2.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X2-Pro-3.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X2-Pro-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X2-Pro-2.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X2-Pro-3.jpeg",
     ],
   },
   {
@@ -2184,9 +2184,9 @@ export const phones: Phone[] = [
     storage: "64GB / 128GB",
     ram: "4GB / 6GB",
     images: [
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Spark-9-Pro-1.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Spark-9-Pro-2.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Spark-9-Pro-3.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Spark-9-Pro-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Spark-9-Pro-2.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Spark-9-Pro-3.jpeg",
     ],
   },
   {
@@ -2201,9 +2201,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Camon-18-Pro-1.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Camon-18-Pro-2.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Camon-18-Pro-3.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Camon-18-Pro-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Camon-18-Pro-2.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Camon-18-Pro-3.jpeg",
     ],
   },
   {
@@ -2218,9 +2218,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Pova-4-Pro-1.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Pova-4-Pro-2.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Pova-4-Pro-3.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Pova-4-Pro-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Pova-4-Pro-2.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Pova-4-Pro-3.jpeg",
     ],
   },
   {
@@ -2235,9 +2235,9 @@ export const phones: Phone[] = [
     storage: "128GB",
     ram: "8GB",
     images: [
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X-1.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X-1.jpeg",
-      "public/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X-1.jpeg",
+      "/prodcuts-imgs/tecno-products-imgs/Tecno-Phantom-X-1.jpeg",
     ],
   },
 ];
